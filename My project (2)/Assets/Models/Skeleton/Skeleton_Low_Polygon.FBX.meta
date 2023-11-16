@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 1f1116a63e636bf4788638b96d2e2adf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Calcaneus (Left)
+    100002: Calcaneus (Right)
+    100004: Capitate (Left)
+    100006: Capitate (Right)
+    100008: Carpals (Left)
+    100010: Carpals (Right)
+    100012: Cervical Vertebrae
+    100014: Clavicle (Left)
+    100016: Clavicle (Right)
+    100018: Coccyx
+    100020: Costal Cartilage
+    100022: Cuboid (Left)
+    100024: Cuboid (Right)
+    100026: Distal Phalanx 1 (Left)
+    100028: Distal Phalanx 1 (Right)
+    100030: Distal Phalanx 2 (Left)
+    100032: Distal Phalanx 2 (Right)
+    100034: Distal Phalanx 3 (Left)
+    100036: Distal Phalanx 3 (Right)
+    100038: Distal Phalanx 4 (Left)
+    100040: Distal Phalanx 4 (Right)
+    100042: Distal Phalanx 5 (Left)
+    100044: Distal Phalanx 5 (Right)
+    100046: Femur (Left)
+    100048: Femur (Right)
+    100050: Fibula (Left)
+    100052: Fibula (Right)
+    100054: Foot (Left)
+    100056: Foot (Right)
+    100058: Foot Distal Phalanx 1 (Left)
+    100060: Foot Distal Phalanx 1 (Right)
+    100062: Foot Distal Phalanx 2 (Left)
+    100064: Foot Distal Phalanx 2 (Right)
+    100066: Foot Distal Phalanx 3 (Left)
+    100068: Foot Distal Phalanx 3 (Right)
+    100070: Foot Distal Phalanx 4 (Left)
+    100072: Foot Distal Phalanx 4 (Right)
+    100074: Foot Distal Phalanx 5 (Left)
+    100076: Foot Distal Phalanx 5 (Right)
+    100078: Foot Intermediate Phalanx 2 (Left)
+    100080: Foot Intermediate Phalanx 2 (Right)
+    100082: Foot Intermediate Phalanx 3 (Left)
+    100084: Foot Intermediate Phalanx 3 (Right)
+    100086: Foot Intermediate Phalanx 4 (Left)
+    100088: Foot Intermediate Phalanx 4 (Right)
+    100090: Foot Intermediate Phalanx 5 (Left)
+    100092: Foot Intermediate Phalanx 5 (Right)
+    100094: Foot Phalangies (Left)
+    100096: Foot Phalangies (Right)
+    100098: Foot Proximal Phalanx 1 (Left)
+    100100: Foot Proximal Phalanx 1 (Right)
+    100102: Foot Proximal Phalanx 2 (Left)
+    100104: Foot Proximal Phalanx 2 (Right)
+    100106: Foot Proximal Phalanx 3 (Left)
+    100108: Foot Proximal Phalanx 3 (Right)
+    100110: Foot Proximal Phalanx 4 (Left)
+    100112: Foot Proximal Phalanx 4 (Right)
+    100114: Foot Proximal Phalanx 5 (Left)
+    100116: Foot Proximal Phalanx 5 (Right)
+    100118: Hamate (Left)
+    100120: Hamate (Right)
+    100122: Hand (Left)
+    100124: Hand (Right)
+    100126: Hand Phalanges (Left)
+    100128: Hand Phalanges (Right)
+    100130: Hand Proximal Phalanx 1 (Left)
+    100132: Hand Proximal Phalanx 1 (Right)
+    100134: Hand Proximal Phalanx 2 (Left)
+    100136: Hand Proximal Phalanx 2 (Right)
+    100138: Hand Proximal Phalanx 3 (Left)
+    100140: Hand Proximal Phalanx 3 (Right)
+    100142: Hand Proximal Phalanx 4 (Left)
+    100144: Hand Proximal Phalanx 4 (Right)
+    100146: Hand Proximal Phalanx 5 (Left)
+    100148: Hand Proximal Phalanx 5 (Right)
+    100150: Humerus (Left)
+    100152: Humerus (Right)
+    100154: Intermediate Cuneiform (Left)
+    100156: Intermediate Cuneiform (Right)
+    100158: Intermediate Phalanx 2 (Left)
+    100160: Intermediate Phalanx 2 (Right)
+    100162: Intermediate Phalanx 3 (Left)
+    100164: Intermediate Phalanx 3 (Right)
+    100166: Intermediate Phalanx 4 (Left)
+    100168: Intermediate Phalanx 4 (Right)
+    100170: Intermediate Phalanx 5 (Left)
+    100172: Intermediate Phalanx 5 (Right)
+    100174: Lateral Cuneiform (Left)
+    100176: Lateral Cuneiform (Right)
+    100178: Lumbar Vertebrae
+    100180: Lunate (Left)
+    100182: Lunate (Right)
+    100184: Medial Cuneiform (Left)
+    100186: Medial Cuneiform (Right)
+    100188: Metacarpal 1 (Left)
+    100190: Metacarpal 1 (Right)
+    100192: Metacarpal 2 (Left)
+    100194: Metacarpal 2 (Right)
+    100196: Metacarpal 3 (Left)
+    100198: Metacarpal 3 (Right)
+    100200: Metacarpal 4 (Left)
+    100202: Metacarpal 4 (Right)
+    100204: Metacarpal 5 (Left)
+    100206: Metacarpal 5 (Right)
+    100208: Metacarpals (Left)
+    100210: Metacarpals (Right)
+    100212: Metatarsal 1 (Left)
+    100214: Metatarsal 1 (Right)
+    100216: Metatarsal 2 (Left)
+    100218: Metatarsal 2 (Right)
+    100220: Metatarsal 3 (Left)
+    100222: Metatarsal 3 (Right)
+    100224: Metatarsal 4 (Left)
+    100226: Metatarsal 4 (Right)
+    100228: Metatarsal 5 (Left)
+    100230: Metatarsal 5 (Right)
+    100232: Metatarsals (Left)
+    100234: Metatarsals (Right)
+    100236: Navicular (Left)
+    100238: Navicular (Right)
+    100240: Os Coxae
+    100242: Patella (Left)
+    100244: Patella (Right)
+    100246: Pisiform (Left)
+    100248: Pisiform (Right)
+    100250: Radius (Left)
+    100252: Radius (Right)
+    100254: Rib 01 (Left)
+    100256: Rib 01 (Right)
+    100258: Rib 02 (Left)
+    100260: Rib 02 (Right)
+    100262: Rib 03 (Left)
+    100264: Rib 03 (Right)
+    100266: Rib 04 (Left)
+    100268: Rib 04 (Right)
+    100270: Rib 05 (Left)
+    100272: Rib 05 (Right)
+    100274: Rib 06 (Left)
+    100276: Rib 06 (Right)
+    100278: Rib 07 (Left)
+    100280: Rib 07 (Right)
+    100282: Rib 08 (Left)
+    100284: Rib 08 (Right)
+    100286: Rib 09 (Left)
+    100288: Rib 09 (Right)
+    100290: Rib 10 (Left)
+    100292: Rib 10 (Right)
+    100294: Rib 11 (Left)
+    100296: Rib 11 (Right)
+    100298: Rib 12 (Left)
+    100300: Rib 12 (Right)
+    100302: Ribs
+    100304: Sacrum
+    100306: Scaphoid (Left)
+    100308: Scaphoid (Right)
+    100310: Scapula (Left)
+    100312: Scapula (Right)
+    100314: //RootNode
+    100316: Skull
+    100318: Sternum
+    100320: Talus (Left)
+    100322: Talus (Right)
+    100324: Tarsals (Left)
+    100326: Tarsals (Right)
+    100328: Thoracic Vertebrae
+    100330: Tibia (Left)
+    100332: Tibia (Right)
+    100334: Trapezium (Left)
+    100336: Trapezium (Right)
+    100338: Trapezoid (Left)
+    100340: Trapezoid (Right)
+    100342: Triquetrum (Left)
+    100344: Triquetrum (Right)
+    100346: Ulna (Left)
+    100348: Ulna (Right)
+    100350: Costal Cartilage.001
+    100352: Costal Cartilage.002
+    100354: Costal Cartilage.003
+    100356: Costal Cartilage.004
+    100358: Costal Cartilage.005
+    100360: Costal Cartilage.006
+    100362: Costal Cartilage.007
+    100364: Costal Cartilage.008
+    100366: Costal Cartilage.009
+    100368: Costal Cartilage.010
+    100370: Costal Cartilage.011
+    100372: Costal Cartilage.012
+    100374: Teeth
+    100376: Jaw
+    100378: Skull Top
+    400000: Calcaneus (Left)
+    400002: Calcaneus (Right)
+    400004: Capitate (Left)
+    400006: Capitate (Right)
+    400008: Carpals (Left)
+    400010: Carpals (Right)
+    400012: Cervical Vertebrae
+    400014: Clavicle (Left)
+    400016: Clavicle (Right)
+    400018: Coccyx
+    400020: Costal Cartilage
+    400022: Cuboid (Left)
+    400024: Cuboid (Right)
+    400026: Distal Phalanx 1 (Left)
+    400028: Distal Phalanx 1 (Right)
+    400030: Distal Phalanx 2 (Left)
+    400032: Distal Phalanx 2 (Right)
+    400034: Distal Phalanx 3 (Left)
+    400036: Distal Phalanx 3 (Right)
+    400038: Distal Phalanx 4 (Left)
+    400040: Distal Phalanx 4 (Right)
+    400042: Distal Phalanx 5 (Left)
+    400044: Distal Phalanx 5 (Right)
+    400046: Femur (Left)
+    400048: Femur (Right)
+    400050: Fibula (Left)
+    400052: Fibula (Right)
+    400054: Foot (Left)
+    400056: Foot (Right)
+    400058: Foot Distal Phalanx 1 (Left)
+    400060: Foot Distal Phalanx 1 (Right)
+    400062: Foot Distal Phalanx 2 (Left)
+    400064: Foot Distal Phalanx 2 (Right)
+    400066: Foot Distal Phalanx 3 (Left)
+    400068: Foot Distal Phalanx 3 (Right)
+    400070: Foot Distal Phalanx 4 (Left)
+    400072: Foot Distal Phalanx 4 (Right)
+    400074: Foot Distal Phalanx 5 (Left)
+    400076: Foot Distal Phalanx 5 (Right)
+    400078: Foot Intermediate Phalanx 2 (Left)
+    400080: Foot Intermediate Phalanx 2 (Right)
+    400082: Foot Intermediate Phalanx 3 (Left)
+    400084: Foot Intermediate Phalanx 3 (Right)
+    400086: Foot Intermediate Phalanx 4 (Left)
+    400088: Foot Intermediate Phalanx 4 (Right)
+    400090: Foot Intermediate Phalanx 5 (Left)
+    400092: Foot Intermediate Phalanx 5 (Right)
+    400094: Foot Phalangies (Left)
+    400096: Foot Phalangies (Right)
+    400098: Foot Proximal Phalanx 1 (Left)
+    400100: Foot Proximal Phalanx 1 (Right)
+    400102: Foot Proximal Phalanx 2 (Left)
+    400104: Foot Proximal Phalanx 2 (Right)
+    400106: Foot Proximal Phalanx 3 (Left)
+    400108: Foot Proximal Phalanx 3 (Right)
+    400110: Foot Proximal Phalanx 4 (Left)
+    400112: Foot Proximal Phalanx 4 (Right)
+    400114: Foot Proximal Phalanx 5 (Left)
+    400116: Foot Proximal Phalanx 5 (Right)
+    400118: Hamate (Left)
+    400120: Hamate (Right)
+    400122: Hand (Left)
+    400124: Hand (Right)
+    400126: Hand Phalanges (Left)
+    400128: Hand Phalanges (Right)
+    400130: Hand Proximal Phalanx 1 (Left)
+    400132: Hand Proximal Phalanx 1 (Right)
+    400134: Hand Proximal Phalanx 2 (Left)
+    400136: Hand Proximal Phalanx 2 (Right)
+    400138: Hand Proximal Phalanx 3 (Left)
+    400140: Hand Proximal Phalanx 3 (Right)
+    400142: Hand Proximal Phalanx 4 (Left)
+    400144: Hand Proximal Phalanx 4 (Right)
+    400146: Hand Proximal Phalanx 5 (Left)
+    400148: Hand Proximal Phalanx 5 (Right)
+    400150: Humerus (Left)
+    400152: Humerus (Right)
+    400154: Intermediate Cuneiform (Left)
+    400156: Intermediate Cuneiform (Right)
+    400158: Intermediate Phalanx 2 (Left)
+    400160: Intermediate Phalanx 2 (Right)
+    400162: Intermediate Phalanx 3 (Left)
+    400164: Intermediate Phalanx 3 (Right)
+    400166: Intermediate Phalanx 4 (Left)
+    400168: Intermediate Phalanx 4 (Right)
+    400170: Intermediate Phalanx 5 (Left)
+    400172: Intermediate Phalanx 5 (Right)
+    400174: Lateral Cuneiform (Left)
+    400176: Lateral Cuneiform (Right)
+    400178: Lumbar Vertebrae
+    400180: Lunate (Left)
+    400182: Lunate (Right)
+    400184: Medial Cuneiform (Left)
+    400186: Medial Cuneiform (Right)
+    400188: Metacarpal 1 (Left)
+    400190: Metacarpal 1 (Right)
+    400192: Metacarpal 2 (Left)
+    400194: Metacarpal 2 (Right)
+    400196: Metacarpal 3 (Left)
+    400198: Metacarpal 3 (Right)
+    400200: Metacarpal 4 (Left)
+    400202: Metacarpal 4 (Right)
+    400204: Metacarpal 5 (Left)
+    400206: Metacarpal 5 (Right)
+    400208: Metacarpals (Left)
+    400210: Metacarpals (Right)
+    400212: Metatarsal 1 (Left)
+    400214: Metatarsal 1 (Right)
+    400216: Metatarsal 2 (Left)
+    400218: Metatarsal 2 (Right)
+    400220: Metatarsal 3 (Left)
+    400222: Metatarsal 3 (Right)
+    400224: Metatarsal 4 (Left)
+    400226: Metatarsal 4 (Right)
+    400228: Metatarsal 5 (Left)
+    400230: Metatarsal 5 (Right)
+    400232: Metatarsals (Left)
+    400234: Metatarsals (Right)
+    400236: Navicular (Left)
+    400238: Navicular (Right)
+    400240: Os Coxae
+    400242: Patella (Left)
+    400244: Patella (Right)
+    400246: Pisiform (Left)
+    400248: Pisiform (Right)
+    400250: Radius (Left)
+    400252: Radius (Right)
+    400254: Rib 01 (Left)
+    400256: Rib 01 (Right)
+    400258: Rib 02 (Left)
+    400260: Rib 02 (Right)
+    400262: Rib 03 (Left)
+    400264: Rib 03 (Right)
+    400266: Rib 04 (Left)
+    400268: Rib 04 (Right)
+    400270: Rib 05 (Left)
+    400272: Rib 05 (Right)
+    400274: Rib 06 (Left)
+    400276: Rib 06 (Right)
+    400278: Rib 07 (Left)
+    400280: Rib 07 (Right)
+    400282: Rib 08 (Left)
+    400284: Rib 08 (Right)
+    400286: Rib 09 (Left)
+    400288: Rib 09 (Right)
+    400290: Rib 10 (Left)
+    400292: Rib 10 (Right)
+    400294: Rib 11 (Left)
+    400296: Rib 11 (Right)
+    400298: Rib 12 (Left)
+    400300: Rib 12 (Right)
+    400302: Ribs
+    400304: Sacrum
+    400306: Scaphoid (Left)
+    400308: Scaphoid (Right)
+    400310: Scapula (Left)
+    400312: Scapula (Right)
+    400314: //RootNode
+    400316: Skull
+    400318: Sternum
+    400320: Talus (Left)
+    400322: Talus (Right)
+    400324: Tarsals (Left)
+    400326: Tarsals (Right)
+    400328: Thoracic Vertebrae
+    400330: Tibia (Left)
+    400332: Tibia (Right)
+    400334: Trapezium (Left)
+    400336: Trapezium (Right)
+    400338: Trapezoid (Left)
+    400340: Trapezoid (Right)
+    400342: Triquetrum (Left)
+    400344: Triquetrum (Right)
+    400346: Ulna (Left)
+    400348: Ulna (Right)
+    400350: Costal Cartilage.001
+    400352: Costal Cartilage.002
+    400354: Costal Cartilage.003
+    400356: Costal Cartilage.004
+    400358: Costal Cartilage.005
+    400360: Costal Cartilage.006
+    400362: Costal Cartilage.007
+    400364: Costal Cartilage.008
+    400366: Costal Cartilage.009
+    400368: Costal Cartilage.010
+    400370: Costal Cartilage.011
+    400372: Costal Cartilage.012
+    400374: Teeth
+    400376: Jaw
+    400378: Skull Top
+    2100000: 'Material #604.014'
+    2100002: 'Material #604'
+    2100004: 'Material #604.005'
+    2100006: 'Material #604.009'
+    2100008: 'Material #604.007'
+    2100010: 'Material #604.001'
+    2100012: 'Material #607'
+    2100014: 'Material #606'
+    2100016: 'Material #605'
+    2100018: 'Material #604.004'
+    2100020: 'Material #604.002'
+    2100022: 'Material #604.008'
+    2100024: 'Material #604.003'
+    2100026: 'Material #604.006'
+    2300000: Calcaneus (Left)
+    2300002: Calcaneus (Right)
+    2300004: Capitate (Left)
+    2300006: Capitate (Right)
+    2300008: Carpals (Left)
+    2300010: Carpals (Right)
+    2300012: Cervical Vertebrae
+    2300014: Clavicle (Left)
+    2300016: Clavicle (Right)
+    2300018: Coccyx
+    2300020: Costal Cartilage
+    2300022: Cuboid (Left)
+    2300024: Cuboid (Right)
+    2300026: Distal Phalanx 1 (Left)
+    2300028: Distal Phalanx 1 (Right)
+    2300030: Distal Phalanx 2 (Left)
+    2300032: Distal Phalanx 2 (Right)
+    2300034: Distal Phalanx 3 (Left)
+    2300036: Distal Phalanx 3 (Right)
+    2300038: Distal Phalanx 4 (Left)
+    2300040: Distal Phalanx 4 (Right)
+    2300042: Distal Phalanx 5 (Left)
+    2300044: Distal Phalanx 5 (Right)
+    2300046: Femur (Left)
+    2300048: Femur (Right)
+    2300050: Fibula (Left)
+    2300052: Fibula (Right)
+    2300054: Foot (Left)
+    2300056: Foot (Right)
+    2300058: Foot Distal Phalanx 1 (Left)
+    2300060: Foot Distal Phalanx 1 (Right)
+    2300062: Foot Distal Phalanx 2 (Left)
+    2300064: Foot Distal Phalanx 2 (Right)
+    2300066: Foot Distal Phalanx 3 (Left)
+    2300068: Foot Distal Phalanx 3 (Right)
+    2300070: Foot Distal Phalanx 4 (Left)
+    2300072: Foot Distal Phalanx 4 (Right)
+    2300074: Foot Distal Phalanx 5 (Left)
+    2300076: Foot Distal Phalanx 5 (Right)
+    2300078: Foot Intermediate Phalanx 2 (Left)
+    2300080: Foot Intermediate Phalanx 2 (Right)
+    2300082: Foot Intermediate Phalanx 3 (Left)
+    2300084: Foot Intermediate Phalanx 3 (Right)
+    2300086: Foot Intermediate Phalanx 4 (Left)
+    2300088: Foot Intermediate Phalanx 4 (Right)
+    2300090: Foot Intermediate Phalanx 5 (Left)
+    2300092: Foot Intermediate Phalanx 5 (Right)
+    2300094: Foot Phalangies (Left)
+    2300096: Foot Phalangies (Right)
+    2300098: Foot Proximal Phalanx 1 (Left)
+    2300100: Foot Proximal Phalanx 1 (Right)
+    2300102: Foot Proximal Phalanx 2 (Left)
+    2300104: Foot Proximal Phalanx 2 (Right)
+    2300106: Foot Proximal Phalanx 3 (Left)
+    2300108: Foot Proximal Phalanx 3 (Right)
+    2300110: Foot Proximal Phalanx 4 (Left)
+    2300112: Foot Proximal Phalanx 4 (Right)
+    2300114: Foot Proximal Phalanx 5 (Left)
+    2300116: Foot Proximal Phalanx 5 (Right)
+    2300118: Hamate (Left)
+    2300120: Hamate (Right)
+    2300122: Hand (Left)
+    2300124: Hand (Right)
+    2300126: Hand Phalanges (Left)
+    2300128: Hand Phalanges (Right)
+    2300130: Hand Proximal Phalanx 1 (Left)
+    2300132: Hand Proximal Phalanx 1 (Right)
+    2300134: Hand Proximal Phalanx 2 (Left)
+    2300136: Hand Proximal Phalanx 2 (Right)
+    2300138: Hand Proximal Phalanx 3 (Left)
+    2300140: Hand Proximal Phalanx 3 (Right)
+    2300142: Hand Proximal Phalanx 4 (Left)
+    2300144: Hand Proximal Phalanx 4 (Right)
+    2300146: Hand Proximal Phalanx 5 (Left)
+    2300148: Hand Proximal Phalanx 5 (Right)
+    2300150: Humerus (Left)
+    2300152: Humerus (Right)
+    2300154: Intermediate Cuneiform (Left)
+    2300156: Intermediate Cuneiform (Right)
+    2300158: Intermediate Phalanx 2 (Left)
+    2300160: Intermediate Phalanx 2 (Right)
+    2300162: Intermediate Phalanx 3 (Left)
+    2300164: Intermediate Phalanx 3 (Right)
+    2300166: Intermediate Phalanx 4 (Left)
+    2300168: Intermediate Phalanx 4 (Right)
+    2300170: Intermediate Phalanx 5 (Left)
+    2300172: Intermediate Phalanx 5 (Right)
+    2300174: Lateral Cuneiform (Left)
+    2300176: Lateral Cuneiform (Right)
+    2300178: Lumbar Vertebrae
+    2300180: Lunate (Left)
+    2300182: Lunate (Right)
+    2300184: Medial Cuneiform (Left)
+    2300186: Medial Cuneiform (Right)
+    2300188: Metacarpal 1 (Left)
+    2300190: Metacarpal 1 (Right)
+    2300192: Metacarpal 2 (Left)
+    2300194: Metacarpal 2 (Right)
+    2300196: Metacarpal 3 (Left)
+    2300198: Metacarpal 3 (Right)
+    2300200: Metacarpal 4 (Left)
+    2300202: Metacarpal 4 (Right)
+    2300204: Metacarpal 5 (Left)
+    2300206: Metacarpal 5 (Right)
+    2300208: Metacarpals (Left)
+    2300210: Metacarpals (Right)
+    2300212: Metatarsal 1 (Left)
+    2300214: Metatarsal 1 (Right)
+    2300216: Metatarsal 2 (Left)
+    2300218: Metatarsal 2 (Right)
+    2300220: Metatarsal 3 (Left)
+    2300222: Metatarsal 3 (Right)
+    2300224: Metatarsal 4 (Left)
+    2300226: Metatarsal 4 (Right)
+    2300228: Metatarsal 5 (Left)
+    2300230: Metatarsal 5 (Right)
+    2300232: Metatarsals (Left)
+    2300234: Metatarsals (Right)
+    2300236: Navicular (Left)
+    2300238: Navicular (Right)
+    2300240: Os Coxae
+    2300242: Patella (Left)
+    2300244: Patella (Right)
+    2300246: Pisiform (Left)
+    2300248: Pisiform (Right)
+    2300250: Radius (Left)
+    2300252: Radius (Right)
+    2300254: Rib 01 (Left)
+    2300256: Rib 01 (Right)
+    2300258: Rib 02 (Left)
+    2300260: Rib 02 (Right)
+    2300262: Rib 03 (Left)
+    2300264: Rib 03 (Right)
+    2300266: Rib 04 (Left)
+    2300268: Rib 04 (Right)
+    2300270: Rib 05 (Left)
+    2300272: Rib 05 (Right)
+    2300274: Rib 06 (Left)
+    2300276: Rib 06 (Right)
+    2300278: Rib 07 (Left)
+    2300280: Rib 07 (Right)
+    2300282: Rib 08 (Left)
+    2300284: Rib 08 (Right)
+    2300286: Rib 09 (Left)
+    2300288: Rib 09 (Right)
+    2300290: Rib 10 (Left)
+    2300292: Rib 10 (Right)
+    2300294: Rib 11 (Left)
+    2300296: Rib 11 (Right)
+    2300298: Rib 12 (Left)
+    2300300: Rib 12 (Right)
+    2300302: Ribs
+    2300304: Sacrum
+    2300306: Scaphoid (Left)
+    2300308: Scaphoid (Right)
+    2300310: Scapula (Left)
+    2300312: Scapula (Right)
+    2300314: Skull
+    2300316: Sternum
+    2300318: Talus (Left)
+    2300320: Talus (Right)
+    2300322: Tarsals (Left)
+    2300324: Tarsals (Right)
+    2300326: Thoracic Vertebrae
+    2300328: Tibia (Left)
+    2300330: Tibia (Right)
+    2300332: Trapezium (Left)
+    2300334: Trapezium (Right)
+    2300336: Trapezoid (Left)
+    2300338: Trapezoid (Right)
+    2300340: Triquetrum (Left)
+    2300342: Triquetrum (Right)
+    2300344: Ulna (Left)
+    2300346: Ulna (Right)
+    2300348: Costal Cartilage.001
+    2300350: Costal Cartilage.002
+    2300352: Costal Cartilage.003
+    2300354: Costal Cartilage.004
+    2300356: Costal Cartilage.005
+    2300358: Costal Cartilage.006
+    2300360: Costal Cartilage.007
+    2300362: Costal Cartilage.008
+    2300364: Costal Cartilage.009
+    2300366: Costal Cartilage.010
+    2300368: Costal Cartilage.011
+    2300370: Costal Cartilage.012
+    2300372: Teeth
+    2300374: Jaw
+    2300376: Skull Top
+    3300000: Calcaneus (Left)
+    3300002: Calcaneus (Right)
+    3300004: Capitate (Left)
+    3300006: Capitate (Right)
+    3300008: Carpals (Left)
+    3300010: Carpals (Right)
+    3300012: Cervical Vertebrae
+    3300014: Clavicle (Left)
+    3300016: Clavicle (Right)
+    3300018: Coccyx
+    3300020: Costal Cartilage
+    3300022: Cuboid (Left)
+    3300024: Cuboid (Right)
+    3300026: Distal Phalanx 1 (Left)
+    3300028: Distal Phalanx 1 (Right)
+    3300030: Distal Phalanx 2 (Left)
+    3300032: Distal Phalanx 2 (Right)
+    3300034: Distal Phalanx 3 (Left)
+    3300036: Distal Phalanx 3 (Right)
+    3300038: Distal Phalanx 4 (Left)
+    3300040: Distal Phalanx 4 (Right)
+    3300042: Distal Phalanx 5 (Left)
+    3300044: Distal Phalanx 5 (Right)
+    3300046: Femur (Left)
+    3300048: Femur (Right)
+    3300050: Fibula (Left)
+    3300052: Fibula (Right)
+    3300054: Foot (Left)
+    3300056: Foot (Right)
+    3300058: Foot Distal Phalanx 1 (Left)
+    3300060: Foot Distal Phalanx 1 (Right)
+    3300062: Foot Distal Phalanx 2 (Left)
+    3300064: Foot Distal Phalanx 2 (Right)
+    3300066: Foot Distal Phalanx 3 (Left)
+    3300068: Foot Distal Phalanx 3 (Right)
+    3300070: Foot Distal Phalanx 4 (Left)
+    3300072: Foot Distal Phalanx 4 (Right)
+    3300074: Foot Distal Phalanx 5 (Left)
+    3300076: Foot Distal Phalanx 5 (Right)
+    3300078: Foot Intermediate Phalanx 2 (Left)
+    3300080: Foot Intermediate Phalanx 2 (Right)
+    3300082: Foot Intermediate Phalanx 3 (Left)
+    3300084: Foot Intermediate Phalanx 3 (Right)
+    3300086: Foot Intermediate Phalanx 4 (Left)
+    3300088: Foot Intermediate Phalanx 4 (Right)
+    3300090: Foot Intermediate Phalanx 5 (Left)
+    3300092: Foot Intermediate Phalanx 5 (Right)
+    3300094: Foot Phalangies (Left)
+    3300096: Foot Phalangies (Right)
+    3300098: Foot Proximal Phalanx 1 (Left)
+    3300100: Foot Proximal Phalanx 1 (Right)
+    3300102: Foot Proximal Phalanx 2 (Left)
+    3300104: Foot Proximal Phalanx 2 (Right)
+    3300106: Foot Proximal Phalanx 3 (Left)
+    3300108: Foot Proximal Phalanx 3 (Right)
+    3300110: Foot Proximal Phalanx 4 (Left)
+    3300112: Foot Proximal Phalanx 4 (Right)
+    3300114: Foot Proximal Phalanx 5 (Left)
+    3300116: Foot Proximal Phalanx 5 (Right)
+    3300118: Hamate (Left)
+    3300120: Hamate (Right)
+    3300122: Hand (Left)
+    3300124: Hand (Right)
+    3300126: Hand Phalanges (Left)
+    3300128: Hand Phalanges (Right)
+    3300130: Hand Proximal Phalanx 1 (Left)
+    3300132: Hand Proximal Phalanx 1 (Right)
+    3300134: Hand Proximal Phalanx 2 (Left)
+    3300136: Hand Proximal Phalanx 2 (Right)
+    3300138: Hand Proximal Phalanx 3 (Left)
+    3300140: Hand Proximal Phalanx 3 (Right)
+    3300142: Hand Proximal Phalanx 4 (Left)
+    3300144: Hand Proximal Phalanx 4 (Right)
+    3300146: Hand Proximal Phalanx 5 (Left)
+    3300148: Hand Proximal Phalanx 5 (Right)
+    3300150: Humerus (Left)
+    3300152: Humerus (Right)
+    3300154: Intermediate Cuneiform (Left)
+    3300156: Intermediate Cuneiform (Right)
+    3300158: Intermediate Phalanx 2 (Left)
+    3300160: Intermediate Phalanx 2 (Right)
+    3300162: Intermediate Phalanx 3 (Left)
+    3300164: Intermediate Phalanx 3 (Right)
+    3300166: Intermediate Phalanx 4 (Left)
+    3300168: Intermediate Phalanx 4 (Right)
+    3300170: Intermediate Phalanx 5 (Left)
+    3300172: Intermediate Phalanx 5 (Right)
+    3300174: Lateral Cuneiform (Left)
+    3300176: Lateral Cuneiform (Right)
+    3300178: Lumbar Vertebrae
+    3300180: Lunate (Left)
+    3300182: Lunate (Right)
+    3300184: Medial Cuneiform (Left)
+    3300186: Medial Cuneiform (Right)
+    3300188: Metacarpal 1 (Left)
+    3300190: Metacarpal 1 (Right)
+    3300192: Metacarpal 2 (Left)
+    3300194: Metacarpal 2 (Right)
+    3300196: Metacarpal 3 (Left)
+    3300198: Metacarpal 3 (Right)
+    3300200: Metacarpal 4 (Left)
+    3300202: Metacarpal 4 (Right)
+    3300204: Metacarpal 5 (Left)
+    3300206: Metacarpal 5 (Right)
+    3300208: Metacarpals (Left)
+    3300210: Metacarpals (Right)
+    3300212: Metatarsal 1 (Left)
+    3300214: Metatarsal 1 (Right)
+    3300216: Metatarsal 2 (Left)
+    3300218: Metatarsal 2 (Right)
+    3300220: Metatarsal 3 (Left)
+    3300222: Metatarsal 3 (Right)
+    3300224: Metatarsal 4 (Left)
+    3300226: Metatarsal 4 (Right)
+    3300228: Metatarsal 5 (Left)
+    3300230: Metatarsal 5 (Right)
+    3300232: Metatarsals (Left)
+    3300234: Metatarsals (Right)
+    3300236: Navicular (Left)
+    3300238: Navicular (Right)
+    3300240: Os Coxae
+    3300242: Patella (Left)
+    3300244: Patella (Right)
+    3300246: Pisiform (Left)
+    3300248: Pisiform (Right)
+    3300250: Radius (Left)
+    3300252: Radius (Right)
+    3300254: Rib 01 (Left)
+    3300256: Rib 01 (Right)
+    3300258: Rib 02 (Left)
+    3300260: Rib 02 (Right)
+    3300262: Rib 03 (Left)
+    3300264: Rib 03 (Right)
+    3300266: Rib 04 (Left)
+    3300268: Rib 04 (Right)
+    3300270: Rib 05 (Left)
+    3300272: Rib 05 (Right)
+    3300274: Rib 06 (Left)
+    3300276: Rib 06 (Right)
+    3300278: Rib 07 (Left)
+    3300280: Rib 07 (Right)
+    3300282: Rib 08 (Left)
+    3300284: Rib 08 (Right)
+    3300286: Rib 09 (Left)
+    3300288: Rib 09 (Right)
+    3300290: Rib 10 (Left)
+    3300292: Rib 10 (Right)
+    3300294: Rib 11 (Left)
+    3300296: Rib 11 (Right)
+    3300298: Rib 12 (Left)
+    3300300: Rib 12 (Right)
+    3300302: Ribs
+    3300304: Sacrum
+    3300306: Scaphoid (Left)
+    3300308: Scaphoid (Right)
+    3300310: Scapula (Left)
+    3300312: Scapula (Right)
+    3300314: Skull
+    3300316: Sternum
+    3300318: Talus (Left)
+    3300320: Talus (Right)
+    3300322: Tarsals (Left)
+    3300324: Tarsals (Right)
+    3300326: Thoracic Vertebrae
+    3300328: Tibia (Left)
+    3300330: Tibia (Right)
+    3300332: Trapezium (Left)
+    3300334: Trapezium (Right)
+    3300336: Trapezoid (Left)
+    3300338: Trapezoid (Right)
+    3300340: Triquetrum (Left)
+    3300342: Triquetrum (Right)
+    3300344: Ulna (Left)
+    3300346: Ulna (Right)
+    3300348: Costal Cartilage.001
+    3300350: Costal Cartilage.002
+    3300352: Costal Cartilage.003
+    3300354: Costal Cartilage.004
+    3300356: Costal Cartilage.005
+    3300358: Costal Cartilage.006
+    3300360: Costal Cartilage.007
+    3300362: Costal Cartilage.008
+    3300364: Costal Cartilage.009
+    3300366: Costal Cartilage.010
+    3300368: Costal Cartilage.011
+    3300370: Costal Cartilage.012
+    3300372: Teeth
+    3300374: Jaw
+    3300376: Skull Top
+    4300000: Coccyx
+    4300002: Foot Distal Phalanx 5 (Left)
+    4300004: Foot Intermediate Phalanx 5 (Left)
+    4300006: Foot Proximal Phalanx 5 (Left)
+    4300008: Foot Distal Phalanx 4 (Left)
+    4300010: Foot Intermediate Phalanx 4 (Left)
+    4300012: Foot Proximal Phalanx 4 (Left)
+    4300014: Foot Distal Phalanx 3 (Left)
+    4300016: Foot Intermediate Phalanx 3 (Left)
+    4300018: Foot Proximal Phalanx 3 (Left)
+    4300020: Foot Distal Phalanx 2 (Left)
+    4300022: Foot Intermediate Phalanx 2 (Left)
+    4300024: Foot Proximal Phalanx 2 (Left)
+    4300026: Foot Distal Phalanx 1 (Left)
+    4300028: Foot Proximal Phalanx 1 (Left)
+    4300030: Metatarsals (Left)
+    4300032: Calcaneus (Left)
+    4300034: Talus (Left)
+    4300036: Navicular (Left)
+    4300038: Cuboid (Left)
+    4300040: Lateral Cuneiform (Left)
+    4300042: Intermediate Cuneiform (Left)
+    4300044: Medial Cuneiform (Left)
+    4300046: Foot Distal Phalanx 5 (Right)
+    4300048: Foot Intermediate Phalanx 5 (Right)
+    4300050: Foot Proximal Phalanx 5 (Right)
+    4300052: Foot Distal Phalanx 4 (Right)
+    4300054: Foot Intermediate Phalanx 4 (Right)
+    4300056: Foot Proximal Phalanx 4 (Right)
+    4300058: Foot Distal Phalanx 3 (Right)
+    4300060: Foot Intermediate Phalanx 3 (Right)
+    4300062: Foot Proximal Phalanx 3 (Right)
+    4300064: Foot Distal Phalanx 2 (Right)
+    4300066: Foot Intermediate Phalanx 2 (Right)
+    4300068: Foot Proximal Phalanx 2 (Right)
+    4300070: Foot Distal Phalanx 1 (Right)
+    4300072: Foot Proximal Phalanx 1 (Right)
+    4300074: Cuboid (Right)
+    4300076: Lateral Cuneiform (Right)
+    4300078: Intermediate Cuneiform (Right)
+    4300080: Medial Cuneiform (Right)
+    4300082: Navicular (Right)
+    4300084: Calcaneus (Right)
+    4300086: Talus (Right)
+    4300088: Metacarpals (Right)
+    4300090: Capitate (Right)
+    4300092: Trapezoid (Right)
+    4300094: Trapezium (Right)
+    4300096: Scaphoid (Right)
+    4300098: Lunate (Right)
+    4300100: Hamate (Right)
+    4300102: Triquetrum (Right)
+    4300104: Pisiform (Right)
+    4300106: Trapezium (Left)
+    4300108: Trapezoid (Left)
+    4300110: Scaphoid (Left)
+    4300112: Capitate (Left)
+    4300114: Hamate (Left)
+    4300116: Lunate (Left)
+    4300118: Triquetrum (Left)
+    4300120: Pisiform (Left)
+    4300122: Os Coxae
+    4300124: Sacrum
+    4300126: Lumbar Vertebrae
+    4300128: Thoracic Vertebrae
+    4300130: Cervical Vertebrae
+    4300132: Metatarsal 3 (Left)
+    4300134: Metatarsal 4 (Left)
+    4300136: Metatarsal 5 (Left)
+    4300138: Metatarsal 2 (Left)
+    4300140: Metatarsal 1 (Left)
+    4300142: Tarsals (Left)
+    4300144: Metatarsals (Right)
+    4300146: Metatarsal 4 (Right)
+    4300148: Metatarsal 3 (Right)
+    4300150: Metatarsal 2 (Right)
+    4300152: Metatarsal 1 (Right)
+    4300154: Metatarsal 5 (Right)
+    4300156: Metacarpal 2 (Right)
+    4300158: Metacarpal 4 (Right)
+    4300160: Metacarpal 5 (Right)
+    4300162: Metacarpal 3 (Right)
+    4300164: Metacarpals (Left)
+    4300166: Metacarpal 2 (Left)
+    4300168: Metacarpal 3 (Left)
+    4300170: Metacarpal 4 (Left)
+    4300172: Metacarpal 5 (Left)
+    4300174: Hand Phalanges (Left)
+    4300176: Hand Phalanges (Right)
+    4300178: Foot (Right)
+    4300180: Foot (Left)
+    4300182: Tibia (Right)
+    4300184: Fibula (Right)
+    4300186: Tibia (Left)
+    4300188: Fibula (Left)
+    4300190: Patella (Right)
+    4300192: Femur (Right)
+    4300194: Patella (Left)
+    4300196: Femur (Left)
+    4300198: Skull
+    4300200: Radius (Left)
+    4300202: Ulna (Left)
+    4300204: Radius (Right)
+    4300206: Hand (Right)
+    4300208: Hand (Left)
+    4300210: Costal Cartilage
+    4300212: Rib 10 (Left)
+    4300214: Rib 11 (Left)
+    4300216: Rib 12 (Left)
+    4300218: Rib 12 (Right)
+    4300220: Rib 11 (Right)
+    4300222: Rib 10 (Right)
+    4300224: Rib 09 (Right)
+    4300226: Rib 08 (Right)
+    4300228: Rib 07 (Right)
+    4300230: Rib 06 (Right)
+    4300232: Rib 05 (Right)
+    4300234: Rib 04 (Right)
+    4300236: Rib 03 (Right)
+    4300238: Rib 02 (Right)
+    4300240: Rib 01 (Right)
+    4300242: Rib 01 (Left)
+    4300244: Rib 02 (Left)
+    4300246: Rib 03 (Left)
+    4300248: Rib 04 (Left)
+    4300250: Rib 05 (Left)
+    4300252: Rib 06 (Left)
+    4300254: Rib 07 (Left)
+    4300256: Rib 08 (Left)
+    4300258: Rib 09 (Left)
+    4300260: Distal Phalanx 1 (Left)
+    4300262: Hand Proximal Phalanx 1 (Left)
+    4300264: Metacarpal 1 (Left)
+    4300266: Distal Phalanx 2 (Left)
+    4300268: Intermediate Phalanx 2 (Left)
+    4300270: Hand Proximal Phalanx 2 (Left)
+    4300272: Distal Phalanx 3 (Left)
+    4300274: Intermediate Phalanx 3 (Left)
+    4300276: Hand Proximal Phalanx 3 (Left)
+    4300278: Distal Phalanx 4 (Left)
+    4300280: Intermediate Phalanx 4 (Left)
+    4300282: Hand Proximal Phalanx 4 (Left)
+    4300284: Distal Phalanx 5 (Left)
+    4300286: Intermediate Phalanx 5 (Left)
+    4300288: Hand Proximal Phalanx 5 (Left)
+    4300290: Carpals (Left)
+    4300292: Humerus (Left)
+    4300294: Scapula (Left)
+    4300296: Distal Phalanx 1 (Right)
+    4300298: Hand Proximal Phalanx 1 (Right)
+    4300300: Metacarpal 1 (Right)
+    4300302: Distal Phalanx 2 (Right)
+    4300304: Intermediate Phalanx 2 (Right)
+    4300306: Hand Proximal Phalanx 2 (Right)
+    4300308: Distal Phalanx 3 (Right)
+    4300310: Intermediate Phalanx 3 (Right)
+    4300312: Hand Proximal Phalanx 3 (Right)
+    4300314: Distal Phalanx 4 (Right)
+    4300316: Intermediate Phalanx 4 (Right)
+    4300318: Hand Proximal Phalanx 4 (Right)
+    4300320: Distal Phalanx 5 (Right)
+    4300322: Intermediate Phalanx 5 (Right)
+    4300324: Hand Proximal Phalanx 5 (Right)
+    4300326: Carpals (Right)
+    4300328: Ulna (Right)
+    4300330: Humerus (Right)
+    4300332: Scapula (Right)
+    4300334: Foot Phalangies (Left)
+    4300336: Foot Phalangies (Right)
+    4300338: Tarsals (Right)
+    4300340: Ribs
+    4300342: Clavicle (Right)
+    4300344: Clavicle (Left)
+    4300346: Sternum
+    4300348: Costal Cartilage.012
+    4300350: Costal Cartilage.011
+    4300352: Costal Cartilage.010
+    4300354: Costal Cartilage.009
+    4300356: Costal Cartilage.008
+    4300358: Costal Cartilage.007
+    4300360: Costal Cartilage.006
+    4300362: Costal Cartilage.005
+    4300364: Costal Cartilage.004
+    4300366: Costal Cartilage.003
+    4300368: Costal Cartilage.002
+    4300370: Costal Cartilage.001
+    4300372: Teeth
+    4300374: Jaw
+    4300376: Skull Top
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,22 +9,24 @@ public class Speech : MonoBehaviour
 {
     public KeywordRecognizer keywordRec;
     public Dictionary<string, System.Action> keywords = new Dictionary<string, System.Action>(); //mapping the keywords, to the actions to be carried out when they are said
-    public System.Action helloAction;
-    public System.Action goodbyeAction;
-    public System.Action powerAction;
-    public System.Action clavicleAction;
+    public System.Action downAction;
+    public System.Action leftAction;
+    public System.Action rightAction;
+    public System.Action upAction;
+    
 
     void Start()
     {
-        helloAction = helloMethod; //mapping the action to the method
-        goodbyeAction = goodByeMethod;
-        powerAction = powerMethod;
-        clavicleAction = clavicleMethod;
+        GameObject myobject = gameObject;
+        downAction = downMethod; //mapping the action to the method
+       leftAction = leftMethod;
+        rightAction = rightMethod;
+        upAction = upMethod;
 
-        keywords.Add("hello", helloAction);
-        keywords.Add("goodbye", goodbyeAction);
-        keywords.Add("power", powerAction);
-        keywords.Add("clavicle", clavicleAction);
+        keywords.Add("left", leftAction);
+        keywords.Add("right", rightAction);
+        keywords.Add("Raise", upAction);
+        keywords.Add("down", downAction);
 
         keywordRec = new KeywordRecognizer(keywords.Keys.ToArray()); //initialize speech rec
 
@@ -33,27 +35,39 @@ public class Speech : MonoBehaviour
         // Start the recognizer
         keywordRec.Start();
 
-        void helloMethod()
+        void leftMethod()
         {
-            Debug.Log("Hello");
+            Debug.Log("Left Method");
+            Vector3 currentposition = myobject.transform.eulerAngles;
+            currentposition.y += 90f;
+            myobject.transform.rotation = Quaternion.Euler(currentposition);
         }
 
-        void goodByeMethod()
+        void rightMethod()
         {
 
-            Debug.Log("Goodbye");
+            Debug.Log("Right");
+            Vector3 currentposition = myobject.transform.eulerAngles;
+            currentposition.y -= 90f;
+            myobject.transform.rotation = Quaternion.Euler(currentposition);
         }
 
-        void powerMethod()
+        void upMethod()
         {
 
-            Debug.Log("Power");
+            Debug.Log("up");
+            Vector3 currentposition = myobject.transform.position;
+            currentposition.y += 0.2f;
+            myobject.transform.position = currentposition;
         }
 
-        void clavicleMethod()
+        void downMethod()
         {
 
-            Debug.Log("Clavicle");
+            Debug.Log("down");
+            Vector3 currentposition = myobject.transform.position;
+            currentposition.y -= 0.2f;
+            myobject.transform.position = currentposition;
         }
     }
 

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -689,6 +689,11 @@ MonoBehaviour:
   SaveButton: {fileID: 0}
   fileName: 
   result: {fileID: 345046239}
+  espeakDirPath: SGS/espeak-ng-data/
+  voiceModelFilePath: SGS/voices/en-us-kathleen-low.onnx
+  voiceConfigFilePath: SGS/voices/en-us-kathleen-low.onnx.json
+  voiceId: 0
+  audioPlayer: {fileID: 1806417988}
 --- !u!82 &1806417988
 AudioSource:
   m_ObjectHideFlags: 0

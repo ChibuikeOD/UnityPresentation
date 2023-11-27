@@ -60,8 +60,8 @@ namespace Speech
 
             keywords.Add("left", leftAction);
             keywords.Add("right", rightAction);
-            keywords.Add("Raise", upAction);
-            keywords.Add("down", downAction);
+            keywords.Add("raise", upAction);
+            keywords.Add("lower", downAction);
             keywords.Add("chat", chatAction);
 
             keywordRec = new KeywordRecognizer(keywords.Keys.ToArray()); //initialize speech rec
@@ -132,6 +132,7 @@ namespace Speech
             {
                 Debug.Log("chat");
                 StartRecording();
+                keywordRec.Stop();
             }
         }
 
@@ -172,13 +173,19 @@ namespace Speech
             const int LETTER_LIMIT = 400;
             const string WORDS_DELIMITER = " ";
             var fragmentsQueue = new Queue<string>(_sentenceSplitPattern.Split(text));
+            Debug.Log("initial count: "+fragmentsQueue.Count); 
+           
             while (fragmentsQueue.Count > 0)
             {
                 var fragment = fragmentsQueue.Dequeue();
+                Debug.Log("count1: " + fragmentsQueue.Count);
+                Debug.Log("fragment1: " + fragment);
                 if (fragmentsQueue.Count > 0)
                 {
                     fragment += fragmentsQueue.Dequeue();
-                }
+                    Debug.Log("count2: " + fragmentsQueue.Count);
+                    Debug.Log("fragment2: "+fragment);
+                }//This if should never activate for our purposes
                 if (fragment.Length > LETTER_LIMIT)
                 {
                     var wordsQueue = new Queue<string>(fragment.Split(WORDS_DELIMITER));
@@ -200,7 +207,7 @@ namespace Speech
                     {
                         _textQueue.Enqueue(sb.ToString());
                     }
-                }
+                }//this else should always activate instead
                 else
                 {
                     _textQueue.Enqueue(fragment);
@@ -261,6 +268,8 @@ namespace Speech
 
         private void StartRecording()
         {
+            result.color = Color.yellow;
+            result.text = "Listening...";
             audioSource = GetComponent<AudioSource>();
             audioSource.clip = Microphone.Start(Microphone.devices[0], true, 10, 44100);
             Debug.Log("Started Recording");
@@ -294,6 +303,7 @@ namespace Speech
         {
             result.color = Color.yellow;
             result.text = "Sending...";
+            keywordRec.Start();
 
             // Path to the WAV file
             string filePath = Path.Combine(Application.streamingAssetsPath, "test.wav");

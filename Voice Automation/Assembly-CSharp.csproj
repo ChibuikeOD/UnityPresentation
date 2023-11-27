@@ -58,9 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Speech.cs" />
-    <Compile Include="Assets\JMO Assets\MatCap Shaders\Creator\Assets\MC_CreateMatCap.cs" />
-    <Compile Include="Assets\BtnSpeak.cs" />
     <Compile Include="Assets\USgs.cs" />
+    <Compile Include="Assets\BtnSpeak.cs" />
+    <Compile Include="Assets\JMO Assets\MatCap Shaders\Creator\Assets\MC_CreateMatCap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -350,11 +350,11 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>I:\Program Files\Unity Hub\Editor\2021.3.32f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="SpeechGenerationSystem">
       <HintPath>Assets\SGS\Plugins\SpeechGenerationSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>I:\Program Files\Unity Hub\Editor\2021.3.32f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
